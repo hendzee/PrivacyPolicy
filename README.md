@@ -7,8 +7,5 @@ We guarantee our user that we **dont use** any personal data of user. We don't c
 ### Device Permission
 To use our app efficiently we need some permission so the app can running properly. We need some permission such as **Internet Permission** for grab some data from the internet or database and open site from the internet, and **storage** that for keep data locally like data score, current level etc (only for our games app).
 
-### Children's Privacy
-Our app can use to anyone that have age of 13 or above.
-
 ### Contact
 If you have any question you can contact our developer at hendzcode@gmail.com
